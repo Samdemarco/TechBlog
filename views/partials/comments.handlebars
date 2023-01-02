@@ -1,0 +1,16 @@
+<div class="comments">
+  {{#each this}}
+  <div class="alert alert-dismissible alert-primary" style="max-width: 20rem;">
+
+  <section class="comment">
+    <div class="meta">
+    <strong>{{user.name}} on {{format_date createdAt}}</strong>
+    </div>
+    <div class="text">
+      {{comment_text}}
+    </div>
+  </section>
+  </div>
+  {{/each}}
+</div>
+
