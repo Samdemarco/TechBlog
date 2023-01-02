@@ -4,11 +4,17 @@
 
 ## Description
 
-JobSeeker is a job board that by using the [JSearch API](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch/details) in the backend provides a list of jobs posted across the web in real-time from many major and minor job sites.
+This project is a fullstack 'Tech Blog' web application leveraging the MVC paradigm for the architectural structure. 
 
-JobSeeker is a subscription based service. Once the user creates an account and inputs their profile information they can browse through the available jobs and apply to those of interest in one click.
+The application (Tech Blog) allows a developer the abitlity to both view and post topics on the latest software development skills, strategies, and insight. 
 
-The application uses: `Node.js`, `MySQL2`, `Express.js`, `Sequelize`, and `Handlebars` to implement the full-stack functionality.
+Users are required to subscribe to the blog where they can then proceed to add their own posts with the ability to either modify or delete as they see fit.
+
+The application uses: `Node.js`, `MySQL2`, `Express.js`, `Sequelize`, `Handlebars`, and `Bootswatch` to implement fullstack functionality.
+
+ ## Challenges
+
+This was a fun however, challenging assignment! Lot's of moving pieces to figure out with the different routes and models required for the application. Completing project 2 before this assignment proved useful since my project was architected using the MVC paradigm...this definitely provided the foundation to tackle this assignment. 
 
 ## User Story
 
