@@ -1,4 +1,4 @@
-# Project 2: JobSeeker
+# Assignment 14: Tech Blog
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
