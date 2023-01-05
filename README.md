@@ -12,6 +12,10 @@ Users are required to subscribe to the blog where they can then proceed to add t
 
 The application uses: `Node.js`, `MySQL2`, `Express.js`, `Sequelize`, `Handlebars`, and `Bootswatch` to implement fullstack functionality.
 
+Here is a snapshot of the Tech Blog homepage:
+    <br />
+![Tech Blog](TechBlogSnapshot.png)
+
  ## Challenges
 
 This was a fun however, challenging assignment! Lot's of moving pieces to figure out with the different routes and models required for the application. Completing project 2 before this assignment proved useful since my project was architected using the MVC paradigm...this definitely provided the foundation to tackle this assignment. 
