@@ -72,14 +72,13 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 ## Installation
 
-The application is deployed at: [JobSeeker](https://jobseeker-proj2.herokuapp.com/job_board)
+The application is deployed at: [TechBlog](https://assignment14-techblog.herokuapp.com/)
 
 To run your own version of the app do the following:
 1. Clone this git repo to your computer
 2. Create a MySQL database in your `localhost` using the data in the `db` directory (`schema.sql`)
 3. Rename `.env.EXAMPLE` as `.env` and add your DB credentials 
 4. Inside a terminal run `npm install` to get all the necessary dependencies
-5. Next run `node seeds/seed.js` to initialize the database tables. 
 
 ## Usage
 
@@ -91,9 +90,6 @@ Click on the image below to watch a video of the JobSeeker site in action
 ## Credits
 
 * Samdemarco
-* mbenitez1607
-* ghideluw
-* NebiatHNana
 
 ## License
 
